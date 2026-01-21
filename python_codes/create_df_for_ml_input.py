@@ -186,16 +186,6 @@ def create_df_for_ml_input(csv_all_years_dir):
     return ml_input_all_df
 
 
-
-# csv_all_years_dir = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/ml_input_data/all_years_csv/'
-
-# ml_input_all_df = create_df_for_ml_input(csv_all_years_dir)
-
-
-# ml_plots = 'D:/deep_percolotation_ml_project/ml_analysis_results/plots/ml_plots/'
-
-# create_pd_for_different_predictor_variables_with_condition(ml_input_all_df,ml_plots , numOfsample_data =50000)
-
 def eda_hist_plot_of_variables(ml_input_all_df, eda_plots_path):
     """
     This functions creates histogram plots of predictor variables
@@ -276,6 +266,7 @@ def eda_hist_plot_of_variables(ml_input_all_df, eda_plots_path):
             print('Please, provide or check if the feature key is in the df columns')  
     
     
+
 
 
 
