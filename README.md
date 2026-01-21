@@ -6,7 +6,7 @@ Groundwater recharge is a vital component of the groundwater system and is chall
 Key words; machine learning, process-based models, explainable AI, groundwater recharge, open-source data
 ##  Data processing
 Data approcessing guidelines are presented in [Data Preprocessing](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/data_collection%20and%20preprocessing.txt).
-##  Model environment set up and steps description
+##  Model environment set up 
 The models are built using [Anaconda](https://www.anaconda.com/download) environment. The libraries used are listed in [Dependencies](https://github.com/DawitWAsfaw/groundwater_recharge_estimates_using_ML/blob/main/deep_percolation_ml.yml) file and can be installed on local computer by copying the code snippet provided below.
 ```
 conda env create -f  deep_percolation_ml.yml
