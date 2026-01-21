@@ -8,6 +8,9 @@ Key words; machine learning, process-based models, explainable AI, groundwater r
 Data approcessing guidelines are presented in [Data Preprocessing](https://github.com/DawitWAsfaw/groundwater_recharge_estimates_using_ML/blob/main/READ_ME.txt).
 ##  Model environment set up and steps description
 The models are built using [Anaconda](https://www.anaconda.com/download) environment. The libraries used are listed in [Dependencies](https://github.com/DawitWAsfaw/groundwater_recharge_estimates_using_ML/blob/main/deep_percolation_ml.yml) file and can be installed on local computer by copying the code snippet provided below.
+```
+conda env create -f  deep_percolation_ml.yml
+```
 ##  Method workflow
 ![image](https://github.com/DawitWAsfaw/groundwater_recharge_estimates_using_ML/blob/main/Figure%203.%20Methods%20Flow%20Chart.png)
 ##  Spatial prediction
