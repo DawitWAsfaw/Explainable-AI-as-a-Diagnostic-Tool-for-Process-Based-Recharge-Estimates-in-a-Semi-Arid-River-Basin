@@ -813,29 +813,14 @@ def ml_spatial_prediction_plot(swat_recharge_dir, pred_recharge_dir, precip_dir,
     None.
     """
     
+  
     
     
     
-# swat_recharge_dir = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/deep_percolation_data/mosaic_tiff/'
-# ml_prediction_recharge_dir = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/ml_analysis_results_and_eda/plots/predictions/'
-# huc12_polygon_shpfile_path = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/gis_files/huc12/huc12_subbasins_correct_15N.shp'
-# huc12_csv_dir =  'D:/deep_percolotation_ml_project/ml_analysis_results/predictions/csv/huc12/'    
-# ref_raster_file = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/gis_files/ref_raster/larb_ref_raster.tif'
-# huc12_shapefile = 'D:/topic_2/deep_percolation_estimates_project/500m_grid_model_larb/gis_files/huc12/huc12_subbasins_correct_15N.shp'
-# huc12_tif_dir = 'D:/deep_percolotation_ml_project/ml_analysis_results/predictions/spatial/huc12/'
+    
+    
+    
+    
+    
 
-
-# calculate_mean_recharge_huc12_scale(swat_recharge_dir, ml_prediction_recharge_dir, huc12_polygon_shpfile_path, huc12_csv_dir)    
-# create_huc12_scale_rasters(huc12_csv_dir, ref_raster_file, huc12_shapefile, huc12_tif_dir)   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
