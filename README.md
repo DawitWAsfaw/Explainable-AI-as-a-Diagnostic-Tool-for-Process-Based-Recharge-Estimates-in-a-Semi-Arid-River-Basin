@@ -6,7 +6,7 @@ Groundwater recharge is a vital component of the groundwater system and is chall
 
 Key words; machine learning, process-based models, explainable AI, groundwater recharge, open-source data
 ## Sugggested citation
-Dawit Asfaw, Ryan Smith, Micheal Ronayne, Sayantan Majumdar, Salam A. Abbas, Ryan T. Bailey,(2026). Explainable AI as a Diagnostic Tool for Process-Based Recharge Estimates in a Semi-Arid River Basin. (In Prep for journal submission)
+Dawit Asfaw, Ryan Smith, Micheal Ronayne, Sayantan Majumdar, Salam A. Abbas, Ryan T. Bailey,(2026). Explainable AI as a Diagnostic Tool for Process-Based Recharge Estimates in a Semi-Arid River Basin. (In Prep for journal submission). 
 Corresponding author (dawit.asfaw@colostate.edu)
 ##  Data processing
 Data approcessing guidelines are presented in [Data Preprocessing](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/data_collection%20and%20preprocessing.txt).
