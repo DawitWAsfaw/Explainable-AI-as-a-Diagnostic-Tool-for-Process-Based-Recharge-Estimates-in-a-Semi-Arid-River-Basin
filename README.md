@@ -22,6 +22,6 @@ conda env create -f  deep_percolation_ml.yml
 ![image](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/plots/Figure%207.%20spatial%20prediction.png)
 
 ##  High recharge zones
-![image](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/plots/Figure%208.%20High%20Recharge%20Zones.png)
+![image](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/plots/Figure%20.10%20high%20recharge%20zone%20spatial%20map.png)
 ## Affiliations
 ![image](https://github.com/DawitWAsfaw/Explainable-AI-as-a-Diagnostic-Tool-for-Process-Based-Recharge-Estimates-in-a-Semi-Arid-River-Basin/blob/main/plots/affiliations.png)
