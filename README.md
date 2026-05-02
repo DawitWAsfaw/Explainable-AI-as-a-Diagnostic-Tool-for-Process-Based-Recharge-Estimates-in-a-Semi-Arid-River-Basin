@@ -6,7 +6,7 @@ Groundwater recharge is a vital component for water budget and water availabilit
 
 **Key words**; machine learning, process-based models, explainable AI, groundwater recharge, open-source data
 ## Sugggested citation
-Dawit Asfaw, Ryan Smith, Micheal Ronayne, Sayantan Majumdar, Salam A. Abbas, Ryan T. Bailey,(2026).Explainable AI as a Diagnostic Tool for Analyzing Spatiotemporal Variability in Simulated Groundwater Recharge: Application to a Semi-Arid River Basin. (In Prep for journal submission). 
+Dawit Asfaw, Ryan Smith, Micheal Ronayne, Sayantan Majumdar, Salam A. Abbas, Ryan T. Bailey,(2026).Explainable AI as a Diagnostic Tool for Analyzing Spatiotemporal Variability in Simulated Groundwater Recharge: Application to a Semi-Arid River Basin. (Under Review - Journal: Environmental Modelling and Software). 
 
 **Corresponding author** (dawit.asfaw@colostate.edu)
 ##  Data processing
