@@ -97,27 +97,18 @@ Reproject these data using 'reproject_rasters.py' and save the reprojected files
 The reference raster file is provided in "GIS/ref_raster_files/raster_ref.tif" folder 
 save all the reprojected files under "500m_scale/tiff/" folder
 
-Calculate zonal statistics - Majority, Unique classes and Percentage of area coverage for individual lulc classes
-huc12_scale:
-1. Use the python code "zonalStat_huc12.py' file to calculate the percentage of area
- coverage for the different land cover classes within huc12 basin boundaries. 
-2. The huc12 polygon shapefile is provide under "GIS->shapefiles->huc12_basins->huc12_basins.shp"
-3. Save the final .csv file in to the "huc12_scale -> yrly_csv" folder
-500m grid scale  
+Stand-alone model - 500m grid scale  
 1. Use the python code "extract_raster_value.py'. 
 2. The 500m point shapefile is provide under "GIS->shapefiles->500m_grid->500m_grid_pnt_xy.shp"
 3. Save the final .csv file in to the "500m_scale -> yrly_csv" folder
 
 
 Combine yearly csv files into a single csv file for all the variables 
-(For intance, precipitation_2000.csv - precipitation_2015.csv to precipitation_all.csv)
+(For intance, precipitation_2002.csv - precipitation_2015.csv to precipitation_all.csv)
 Use "concat_csv_files.py" to combine year csv files
 
 Finally,
-For huc12 scale, merge on the variable_all.csv file into f huc12_scale_ml_input.csv
-Use "merge_csv.py" file to merge csv files
-
-for 500m_scale, import variable_all.csv files to your ml pipeline directly due to the large data size. 
+For Stand-alone model - 500m_scale, import variable_all.csv files to your ml pipeline directly due to the large data size. 
 
 
 ...........................*End*............................................................................
