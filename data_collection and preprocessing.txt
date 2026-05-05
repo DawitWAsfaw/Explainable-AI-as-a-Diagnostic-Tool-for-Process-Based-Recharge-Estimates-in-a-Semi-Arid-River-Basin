@@ -22,7 +22,7 @@ step two: Convert yearly data from step on to .tif file format using 'recharge_f
 Download climatic data from Google Earth Engine -using "gee_download.py". The shapefiles in "gis->gee_download" 
 
 
- 1. Evapotranspiration - openET
+ 1. Actual Evapotranspiration - openET
  2. Precipitation  - PRISM
  3. Elevation - PRISM
  4. Minimum Air Temperature - PRISM
