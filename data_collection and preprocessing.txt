@@ -30,9 +30,9 @@ Download climatic data from Google Earth Engine -using "gee_download.py". The sh
 
 Create hydrological factors maps using ArcGIS Pro using "Elevation" data downloaded from gee (1 -3) and larb_rivers.shp (4 -5)
  1. Topographic wetness index (TWI),
- 2. Topographic roughness index (TRI, 
+ 2. Topographic roughness index (TRI), 
  3. Steam Power Index(SPI), 
- 4. Drainage Density and 
+ 4. Drainage Density and, 
  5. Distance to River  
 
 Download physical soil properties data from SSURGO Portal under "Soil Physical Properties" (1 -7) and "Water Features" (8 -9) Menus
