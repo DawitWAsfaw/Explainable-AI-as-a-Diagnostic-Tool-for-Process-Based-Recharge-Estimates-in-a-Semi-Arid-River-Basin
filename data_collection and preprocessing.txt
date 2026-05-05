@@ -1,5 +1,5 @@
 # This read me text provides detailed step-by-step guide how the machine learning pipeline was constructed for the article titled 
-## "Explainable AI as a Diagnostic Tool for Analyzing Spatiotemporal Variability in Simulated Groundwater Recharge: Application to a Semi-Arid River Basin"
+"Explainable AI as a Diagnostic Tool for Analyzing Spatiotemporal Variability in Simulated Groundwater Recharge: Application to a Semi-Arid River Basin"
 
 File structure and data contained in Folders
 
